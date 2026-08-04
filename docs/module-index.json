@@ -1,0 +1,13 @@
+{
+  "modules": [
+    {
+      "id": "hola-mundo",
+      "name": "Hola Mundo",
+      "description": "Módulo de referencia mínimo para validar la arquitectura MVVM y el flujo de navegación desde la vista inicial.",
+      "status": "implemented",
+      "startDate": "2026-08-04",
+      "lastModifiedDate": "2026-08-04",
+      "variantOf": null
+    }
+  ]
+}

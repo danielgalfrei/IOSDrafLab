@@ -1,0 +1,10 @@
+# Xcode / XcodeGen (el .xcodeproj se genera con `xcodegen generate` a partir de project.yml)
+*.xcodeproj
+xcuserdata/
+DerivedData/
+.build/
+*.hmap
+*.ipa
+
+# macOS
+.DS_Store

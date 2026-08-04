@@ -1,0 +1,9 @@
+INDICE DE MODULOS - Draft Lab
+Generado a partir de docs/module-index.json - no editar a mano.
+Regenerar con: python3 Scripts/generate_module_index_txt.py
+
+- Hola Mundo (hola-mundo)
+    Estado:      implemented
+    Inicio:      2026-08-04
+    Ult. mod.:   2026-08-04
+    Descripcion: Módulo de referencia mínimo para validar la arquitectura MVVM y el flujo de navegación desde la vista inicial.
